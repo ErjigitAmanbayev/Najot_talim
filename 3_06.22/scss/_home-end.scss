@@ -1,0 +1,43 @@
+.home__end {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 1280px;
+  height: 120px;
+  margin-top: 200px;
+  background: #2c343e;
+
+  .home__end-logo {
+    width: 236px;
+    height: 26px;
+    padding: 47px 103px 48px 85px;
+  }
+  .home__end-nav {
+    width: 500px;
+    height: 15px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    gap: 33px;
+  }
+  .home__end-nav a {
+    color: #83888f;
+    font-size: 12px;
+    font-family: Barlow;
+    font-weight: 700;
+    line-height: 15px;
+    letter-spacing: 0.923px;
+    text-transform: uppercase;
+  }
+  .messenger-box {
+    margin-left: 215px;
+    width: 120px;
+    height: 24px;
+  }
+}
