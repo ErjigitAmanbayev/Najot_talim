@@ -1,0 +1,74 @@
+.our__collection-contener {
+    width: 1111px;
+    height: 505.545px;
+    margin: 0 auto;
+    margin-top: 152px;
+    background-color: #fefcf7;
+
+  .our__collection-title {
+    width: 1111px;
+    height: 196px;
+  }
+  .our__collection {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    gap: 30px;
+    width: 1110.822px;
+    height: 398.545px;
+    margin-top: -65px;
+  }
+  .our__collection-box {
+    width: 255px;
+    height: 398.545px;
+  }
+  .our__collection-pnj img {
+    width: 255px;
+    height: 193px;
+  }
+  .our__collection-tex-box {
+    height: 134px;
+    margin-top: 24px;
+    text-align: center;
+  
+    display: -webkit-box;
+  
+    display: -ms-flexbox;
+  
+    display: flex;
+    width: 255px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    gap: 24px;
+  }
+  .our__collection-h {
+    width: 255px;
+    height: 32px;
+  
+    color: #333d4b;
+    text-align: center;
+    font-size: 24px;
+    font-family: Fraunces;
+    font-weight: 900;
+    line-height: 32px;
+  }
+  .our__collection-p {
+    width: 255px;
+    height: 78px;
+    top: 56px;
+  
+    color: #333d4b;
+    text-align: center;
+    font-size: 16px;
+    font-family: Barlow;
+    line-height: 26px;
+  }
+}

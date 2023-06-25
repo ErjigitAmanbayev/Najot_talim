@@ -1,0 +1,40 @@
+.about__coffee {
+  width: 1280px;
+  height: 474px;
+  display: flex;
+  align-items: center;
+  margin-top: 180px;
+  flex-shrink: 0;
+  background: url(../dars-pnj/about-backround.png);
+
+  .about__box {
+    width: 540px;
+    height: 340px;
+    margin: 260px 92px 200px 85px;
+  }
+  .about__title {
+    width: 517px;
+    height: 48px;
+    color: #fefcf7;
+    font-size: 40px;
+    font-family: Fraunces 9pt;
+    font-weight: 900;
+    line-height: 48px;
+  }
+  .about__p {
+    width: 540px;
+    height: 130px;
+    padding-top: 32px;
+    color: #fefcf7;
+    font-size: 17px;
+    font-family: Barlow;
+    line-height: 26px;
+    // opacity: 0.800000011920929;
+  }
+  .about__pnj {
+    width: 445px;
+    height: 474px;
+    padding-bottom: 160px;
+    border-radius: 8px;
+  }
+}

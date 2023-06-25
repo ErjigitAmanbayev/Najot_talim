@@ -1,0 +1,39 @@
+.commitment__box {
+  width: 1110px;
+  height: 520px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  margin-top: 168px;
+
+  .commitment__pnj {
+    width: 445px;
+    height: 520px;
+    flex-shrink: 0;
+  }
+  .commitment__text {
+    width: 540px;
+    height: 340px;
+    margin-left: 125px;
+  }
+  .commitment__title {
+    width: 357px;
+    height: 48px;
+    color: #333d4b;
+    font-size: 26px;
+    font-family: Fraunces;
+    font-weight: 900;
+    line-height: 48px;
+  }
+  .commitment__p {
+    width: 540px;
+    height: 260px;
+    padding-top: 32px;
+
+    color: #333d4b;
+    font-size: 16px;
+    font-family: Barlow;
+    line-height: 26px;
+  }
+}

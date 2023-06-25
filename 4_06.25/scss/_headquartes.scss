@@ -1,0 +1,50 @@
+.headquarters {
+  width: 1054px;
+  height: 366px;
+  margin: 0 auto;
+  margin-top: 150px;
+
+  .headquarters__title {
+    width: 255px;
+    height: 32px;
+    color: #83888f;
+    font-size: 24px;
+    font-family: Fraunces 9pt;
+    font-weight: 900;
+    line-height: 32px;
+  }
+  .states__box {
+    width: 1045px;
+    height: 262px;
+    display: flex;
+    gap: 95px;
+    padding-top: 72px;
+  }
+  .state {
+    width: 285px;
+    height: 260px;
+  }
+  .state__pnj {
+    width: 40.842px;
+    height: 49.072px;
+  }
+  .state__title {
+    width: 272px;
+    height: 36px;
+    padding-top: 45px;
+    color: #333d4b;
+    font-size: 32px;
+    font-family: Fraunces 9pt;
+    font-weight: 900;
+    line-height: 36px;
+  }
+  .state__p {
+    width: 285px;
+    height: 107px;
+    padding-top: 24px;
+    color: #333d4b;
+    font-size: 16px;
+    font-family: Barlow;
+    line-height: 26px;
+  }
+}
